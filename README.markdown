@@ -27,10 +27,14 @@ If you discover something that should work, but doesn't - let us know. You could
 
 * [post a bug report on GitHub](https://github.com/jetheredge/SquishIt/issues/new)
 * fork repository, write a failing test that demonstrates this bug and send a pull request (that would be awesome)
-* fork repository, fix the bug and write some tests to make sure it is fixed (even more awesome)
+* fork repository, fix the bug, write some test that prove your bug fix and send a pull request (even more awesome)
 
 **Suggest a feature**<br />
+If you have an idea for a new feature:
 
+* [tell us about it](https://github.com/jetheredge/SquishIt/issues/new)
+* fork repository, write a test demonstrating how this feature should work and send a pull request (that would be awesome)
+* fork repository, implemented the feauture+tests and send a pull request (even more awesome)
 
 **Help others**<br />
 Have a look at [unanswered SquishIt questions on StackOverflow](http://stackoverflow.com/questions/tagged/squishit?sort=unanswered&pagesize=30) and see if you can answer any of them.<br />
