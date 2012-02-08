@@ -22,9 +22,15 @@ Advanced usage
 
 Contribute
 - 
-**Bugs and bug fixes**<br />
+**Report a bug**<br />
+If you discover something that should work, but doesn't - let us know:
 
-**Features**<br />
+* you can [post a bug report on GitHub](https://github.com/jetheredge/SquishIt/issues/new)
+* fork repository, write a failing test that demonstrates this bug and send a pull request (that would be awesome)
+* fork repository, fix a bug and write some test to make sure it is fixed (even more awesome)
+
+**Suggest a feature**<br />
+
 
 **Help others**<br />
 Have a look at [unanswered SquishIt questions on StackOverflow](http://stackoverflow.com/questions/tagged/squishit?sort=unanswered&pagesize=30) and see if you can answer any of them.<br />
