@@ -14,10 +14,10 @@ Configuration
 -
 There is no configuration! It is ready for use as soon as you install it.
 
-Basic API
+Basic usage
 -
 
-Advanced API
+Advanced usage
 -
 
 Contribute
@@ -46,8 +46,8 @@ Project history
 
 Topics:
 
-* name change from Bundler to SquishIt
-* origin
+* name change from Bundler to SquishIt (origin of old name, new name)
+* origin of idea
 * dates
 * project lead
 * contributors
