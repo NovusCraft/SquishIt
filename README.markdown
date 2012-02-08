@@ -29,20 +29,22 @@ Contribute
 **Implement a feature**
 
 **Help others**<br />
-
-http://stackoverflow.com/questions/tagged/squishit
+Have a look at [unanswered SquishIt questions on StackOverflow](http://stackoverflow.com/questions/tagged/squishit?sort=unanswered&pagesize=30) and see if you can answer them.
 
 **Spread the word**<br />
 You can help make SquishIt better even if you don't have a lot of time to spend.<br />
-Show it to your colleagues. Blog it. Twitter it. Spread the word!
+Show it to your colleagues. Blog it. Tweet it. Spread the word!
 
 Projects using SquishIt
 -
+* Be the first to list your project here... 
 
 Project history
 -
-[Need Justin's input on this]
+*Need Justin's input on this*
+
 Topics:
+
 * name change from Bundler to SquishIt
 * origin
 * dates
