@@ -12,7 +12,7 @@ Installation
 
 Configuration
 -
-There is no configuration!
+There is no configuration! It is ready for use as soon as you install it.
 
 Basic API
 -
