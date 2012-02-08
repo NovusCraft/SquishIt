@@ -27,7 +27,7 @@ If you discover something that should work, but doesn't - let us know. You could
 
 * [post a bug report on GitHub](https://github.com/jetheredge/SquishIt/issues/new)
 * fork repository, write a failing test that demonstrates this bug and send a pull request (that would be awesome)
-* fork repository, fix a bug and write some test to make sure it is fixed (even more awesome)
+* fork repository, fix the bug and write some tests to make sure it is fixed (even more awesome)
 
 **Suggest a feature**<br />
 
