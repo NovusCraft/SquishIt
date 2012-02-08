@@ -38,7 +38,7 @@ You will help create a library of solutions and lower barrier to entry for new S
 You can help make SquishIt better even if you don't have a lot of time to spend.<br />
 Show it to your colleagues. Blog it. Tweet it. Spread the word!
 
-Projects using SquishIt
+Projects using SquishIt [REQUIRES INPUT]
 -
 * Be the first to list your project here... 
 
