@@ -5,6 +5,7 @@ SquishIt!
 Installation
 -
 **Install via NuGet**<br />
+who manages NuGet releases?
 
 **Download from GitHub**<br />
 
@@ -57,12 +58,13 @@ Project history [REQUIRES INPUT]
 -
 Topics:
 
-* name change from Bundler to SquishIt (origin of old name, new name)
-* origin of idea
-* dates
-* project lead
-* contributors
-* who manages NuGet releases?
+* Creator (blog?)
+* Origin of idea (also when?)
+* Original name and new name (Bundler to SquishIt)
+* First public release
+* Project lead 
+* Contributors
+* Release schedule
 
 License (MIT) [READY FOR SIGN-OFF]
 -
