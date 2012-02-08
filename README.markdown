@@ -40,10 +40,8 @@ Projects using SquishIt
 -
 * Be the first to list your project here... 
 
-Project history
+Project history [REQUIRES INPUT]
 -
-*Need Justin's input on this*
-
 Topics:
 
 * name change from Bundler to SquishIt (origin of old name, new name)
@@ -53,7 +51,7 @@ Topics:
 * contributors
 * who manages NuGet releases?
 
-License (MIT)
+License (MIT) [READY FOR SIGN-OFF]
 -
 Copyright © 2011-2012, Justin Etheredge - http://www.codethinked.com
 
