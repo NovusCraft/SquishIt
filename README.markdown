@@ -22,17 +22,18 @@ Advanced usage
 
 Contribute
 - 
-**Submit a bug report**
+**Bugs and bug fixes**<br />
 
-**Fix a bug**
-
-**Implement a feature**
+**Features**<br />
 
 **Help others**<br />
 Have a look at [unanswered SquishIt questions on StackOverflow](http://stackoverflow.com/questions/tagged/squishit?sort=unanswered&pagesize=30) and see if you can answer any of them.<br />
 You will help create a library of solutions and lower barrier to entry for new SquishIt users.
 
-**Help keep this document up-to-date**<br /> 
+**Help keep this document up-to-date**<br />
+Documentation has a nasty habit of becoming out of date with reality.<br />
+If you can think of a better usage example or spot an error, let us know.<br />
+Better yet, update this file and send a pull request.
 
 **Spread the word**<br />
 You can help make SquishIt better even if you don't have a lot of time to spend.<br />
