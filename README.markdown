@@ -23,6 +23,19 @@ You can pull the latest source using Git or [download a zip of the master branch
 
 Basic usage
 -
+**CSS bundling and minification**
+
+	@Html.Raw(SquishIt.Framework.Bundle.Css()
+								.Add("~/css/file1.css")
+								.Add("~/css/file2.css")
+								.Render("~/css/combined_#.css"))
+
+*Explanation*
+1. All CSS bundling is handled via `SquishIt.Framework.Bundle.Css()` API.
+2. Call `.Add()` method to specify which files to bundle.
+3. Call `Render()` method at the end to specify filepath of the generated file
+
+This will combine files in the order they were specified and minify them using Microsoft Minifier.
 
 Advanced usage
 -
