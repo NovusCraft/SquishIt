@@ -31,6 +31,7 @@ Basic usage
 								.Render("~/css/combined_#.css"))
 
 *Explanation*
+
 1. All CSS bundling is handled via `SquishIt.Framework.Bundle.Css()` API.
 2. Call `.Add()` method to specify which files to bundle.
 3. Call `Render()` method at the end to specify filepath of the generated file
