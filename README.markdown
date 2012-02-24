@@ -1,19 +1,25 @@
 SquishIt!
 =
-*Elevator pitch*
+SquishIt lets you easily compress and combine JavaScript and CSS. It also includes the ability to use dotless to process your CSS.
 
 Installation
 -
 **Install via NuGet**<br />
-who manages NuGet releases?
+The quickest way to get install SquishIt is via [NuGet](http://docs.nuget.org/docs/start-here/overview).
+
+Open [Package Manager console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console) and enter:
+
+	Install-Package SquishIt
 
 **Download from GitHub**<br />
 
+Visit [SquishIt download page](https://github.com/jetheredge/SquishIt/downloads) to donwload the latest release.
+
 **Compile from source**<br />
 
-Configuration
--
-There is no configuration! It is ready for use as soon as you install it.
+SquishIt source code is [hosted on GitHub](https://github.com/jetheredge/SquishIt).
+
+You can pull the latest source using Git or [download a zip of the master branch](https://github.com/jetheredge/SquishIt/zipball/master).
 
 Basic usage
 -
@@ -21,21 +27,21 @@ Basic usage
 Advanced usage
 -
 
-Contribute [READY FOR SIGN-OFF]
+Contribute
 - 
 **Report a bug**<br />
-If you discover something that should work, but doesn't - let us know. You could:
+If you discover something that doesn't work - please let us know. You could:
 
 * [post a bug report on GitHub](https://github.com/jetheredge/SquishIt/issues/new)
-* fork repository, write a failing test that demonstrates this bug and send a pull request (that would be awesome)
-* fork repository, fix the bug, write some test that prove your bug fix and send a pull request (even more awesome)
+* write a failing test that demonstrates this bug and send a pull request (that would be awesome)
+* fix the bug, write some test that prove your bug fix and send a pull request (even more awesome)
 
 **Suggest a feature**<br />
 If you have an idea for a new feature:
 
 * [tell us about it](https://github.com/jetheredge/SquishIt/issues/new)
-* fork repository, write a test demonstrating how this feature should work and send a pull request (that would be awesome)
-* fork repository, implemented this feauture + tests and send a pull request (even more awesome)
+* write a test demonstrating how this feature should work and send a pull request (that would be awesome)
+* implemented this feauture + tests and send a pull request (even more awesome)
 
 **Help others**<br />
 Have a look at [unanswered SquishIt questions on StackOverflow](http://stackoverflow.com/questions/tagged/squishit?sort=unanswered&pagesize=30) and see if you can answer any of them.<br />
@@ -47,14 +53,13 @@ If you can think of a better usage example or spot an error, let us know.<br />
 Better yet, update this file and send a pull request.
 
 **Spread the word**<br />
-You can help make SquishIt better even if you don't have a lot of time to spend.<br />
-Show it to your colleagues. Blog it. Tweet it. Spread the word!
+Show SquishIt to your colleagues. Blog it. Tweet it. Spread the word!
 
-Projects using SquishIt [REQUIRES INPUT]
+Projects using SquishIt
 -
-* Be the first to list your project here... 
+Be the first to list your project here... 
 
-Project history [REQUIRES INPUT]
+Project history
 -
 Topics:
 
@@ -66,7 +71,7 @@ Topics:
 * Contributors
 * Release schedule
 
-License (MIT) [READY FOR SIGN-OFF]
+License (MIT)
 -
 Copyright © 2011-2012, Justin Etheredge - http://www.codethinked.com
 
